@@ -1,5 +1,5 @@
 
-Detects Drowsiness along with yawn detection of a person Usin OpenCV. 
+Detects Drowsiness along with yawn detection of a person using OpenCV. 
 
 Download shape_predictor_68_face_landmarks.dat to work with this project.
 
